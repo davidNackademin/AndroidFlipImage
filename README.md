@@ -1,3 +1,3 @@
 # AndroidFlipImage
 
-Custaom ImageView
+Custom ImageView
